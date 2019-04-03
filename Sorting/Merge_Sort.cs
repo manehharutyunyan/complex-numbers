@@ -63,7 +63,7 @@ namespace Sorting
                 int r = (q + p) / 2;
                 MergeSort(a, p, r);
                 MergeSort(a, r + 1, q);
-                Merge(a, p, r, q);
+                Merge(a, p, r, q);//
             }
         }
     }
