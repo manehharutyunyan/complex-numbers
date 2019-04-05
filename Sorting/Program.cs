@@ -11,7 +11,6 @@ namespace Sorting
     {
         public static void Print(int[] arr)
         {
-            Console.WriteLine();
             for (int i = 0; i < arr.Length;  i++)
             {
 
