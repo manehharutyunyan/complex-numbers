@@ -13,6 +13,7 @@ namespace Sorting
         {
             for (int i = 0; i < arr.Length;  i++)
             {
+                Console.WriteLine();
                 Console.Write(arr[i] + " ");
             }
             Console.WriteLine();
